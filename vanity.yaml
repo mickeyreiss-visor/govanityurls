@@ -1,8 +1,5 @@
-host: rakyll.pizza
+host: go.visor.com
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /:
+    repo: https://github.com/visor-tax/tax-io/go/src/go.visor.design
