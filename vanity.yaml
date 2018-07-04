@@ -2,4 +2,4 @@ host: go.visor.com
 
 paths:
   /:
-    repo: https://github.com/visor-tax/tax-io/go/src/go.visor.design
+    repo: https://github.com/visor-tax/tax-io/go/src/go.visor.com
